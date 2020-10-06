@@ -6,7 +6,7 @@ The GS1 aims to facilitate data exchange for participants in the fashion industr
 # Content
 - Data model description as Excel
 - JSON scheme for validating JSON messages
-- JSON Example data Scheme: C:\Users\berg\Desktop\fashionDataModel_example.htm
+- JSON Example data set
 - Update fashion data model in pilot project
 
 This syntax-neutral Excel Pilot data model was created in cooperation with the companies Ahlers Group, Hagemeyer, Zalando, KATAG, Falke and Fashion Cloud.
