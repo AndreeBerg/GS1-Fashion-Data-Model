@@ -4,10 +4,10 @@ This repository contains all necessary information for the fashion industry to i
 # Motivation
 The GS1 aims to facilitate data exchange for participants in the fashion industry. Faster production cycles, a larger number of data exchange partners and the increasing importance of product data in times of e-commerce require a smooth data exchange. The agreement of a standard ensures that a uniform "language" is spoken within the fashion industry. The focus has been placed on simple use and implementation, as well as on the needs of internationalization and the associated multilingualism of data.
 # Content
--   [Datenmodellbeschreibung als Excel](https://github.com/ GS1-Fashion-Data-Model/Fashion data model_AT_DE_CH_V1_Pilot.xlsx)
-- JSON scheme for validating JSON messages
-- JSON Example data set
-- Update fashion data model in pilot project
+-   [Datenmodellbeschreibung als Excel](https://github.com/boernard/fashion-data-model/raw/master/Fashion%20data%20model_AT_DE_CH_V1_Pilot.xlsx)
+-   [JSON Schema zur Validierung von JSON Nachrichten](https://raw.githubusercontent.com/boernard/fashion-data-model/master/fashionDataModelJsonSchema.json)
+-   [JSON Beispiel Datensatz](https://raw.githubusercontent.com/boernard/fashion-data-model/master/fashionDataModel_example.json)
+-   [Update fashion data model im Pilotprojekt](https://github.com/boernard/fashion-data-model/raw/master/Update%20fashion%20data%20model%20im%20Pilotprojekt.pdf)
 
 This syntax-neutral Excel Pilot data model was created in cooperation with the companies Ahlers Group, Hagemeyer, Zalando, KATAG, Falke and Fashion Cloud.
 - In Sope 1 of the implementation, the focus is on the attributes that can be delivered by the data sender today.
